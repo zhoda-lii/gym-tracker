@@ -1,0 +1,12 @@
+MemberID,FirstName,LastName,Gender,Email,Phone,DateOfBirth,MembershipStart,MembershipEnd,MembershipType,TrainerMbrID
+1,John,Doe,M,john.doe@example.com,1234567890,1990-05-15,2023-08-04,2024-05-09,Standard,
+2,Jane,Smith,F,jane.smith@example.com,9876543210,1985-08-20,2024-03-29,2024-05-11,Standard,
+3,Rahul,Kumar,M,rahul.kumar@example.com,5551234567,1995-11-10,2024-01-05,2024-05-02,Premium,1
+4,Emily,Davis,F,emily.davis@example.com,4449876543,1988-04-25,2024-04-04,2024-05-03,Premium,2
+5,Juan,Dela Cruz,M,juan.delacruz@example.com,6667890123,1992-09-30,2024-04-05,2024-05-05,Premium,1
+6,Yuma,Lawerence,M,ylawerence0@miibeian.gov.cn,1587588503,1998-08-17,2024-04-09,2024-05-08,Premium,1
+10,Demetra,Commander,F,dcommander1@answers.com,2383570976,1999-02-14,2024-04-09,2024-05-08,Premium,1
+12,Kelly,Panner,M,kpanner2@dell.com,9164311758,2004-09-30,2024-04-10,2024-05-09,Premium,1
+13,Filmer,Cromly,M,fcromly3@symantec.com,2168969541,1995-08-24,2024-04-12,2024-05-11,Premium,2
+22,Filmer2,Cromly,M,fcromly3@symantec.com,2168969541,1995-08-24,,,,2
+23,Filmer3,Cromly,M,fcromly3@symantec.com,2168969541,1995-08-24,,,,

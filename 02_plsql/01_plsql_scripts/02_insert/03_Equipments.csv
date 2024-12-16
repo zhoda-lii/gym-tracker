@@ -1,0 +1,6 @@
+EquipmentID,EquipmentName,EquipmentType
+1,Dumbbells,Strength
+2,Barbell,Strength
+3,Treadmill,Cardio
+4,Exercise Bike,Cardio
+5,Elliptical Machine,Cardio
